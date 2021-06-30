@@ -1,0 +1,7 @@
+#ifndef D8398060_5E9B_40C0_8323_4EA23FA925A2
+#define D8398060_5E9B_40C0_8323_4EA23FA925A2
+#include <iostream>
+
+using namespace std;
+
+#endif /* D8398060_5E9B_40C0_8323_4EA23FA925A2 */
